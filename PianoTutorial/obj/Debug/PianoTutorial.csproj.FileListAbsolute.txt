@@ -1,0 +1,192 @@
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\PianoTutorial.exe.config
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\PianoTutorial.exe
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\PianoTutorial.pdb
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Castle.Core.dll
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Castle.Facilities.EventWiring.dll
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Castle.Facilities.Logging.dll
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Castle.Facilities.Synchronize.dll
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Castle.Services.Logging.Log4netIntegration.dll
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Castle.Windsor.dll
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\CSCore.dll
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\MvvmTools.dll
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\NAudio.dll
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Sanford.Multimedia.dll
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Sanford.Multimedia.Midi.WPF.dll
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\System.Reactive.Core.dll
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\System.Reactive.Linq.dll
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Sanford.Threading.dll
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Sanford.Collections.dll
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Castle.Core.pdb
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Castle.Core.xml
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Castle.Facilities.EventWiring.pdb
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Castle.Facilities.EventWiring.xml
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Castle.Facilities.Logging.pdb
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Castle.Facilities.Logging.xml
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Castle.Facilities.Synchronize.pdb
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Castle.Windsor.pdb
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Castle.Windsor.xml
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\CSCore.xml
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\System.Reactive.Core.xml
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\System.Reactive.Linq.xml
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\Styles\GlassButton.baml
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\Styles\RoundedButton.baml
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\View\ChordListView.g.cs
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\View\MainWindowView.g.cs
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\View\PianoControlView.g.cs
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\View\SongListView.g.cs
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\View\TopToolbarView.g.cs
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\App.g.cs
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\PianoTutorial_Content.g.cs
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\PianoTutorial_MarkupCompile.cache
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\PianoTutorial_MarkupCompile.lref
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\App.baml
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\View\ChordListView.baml
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\View\MainWindowView.baml
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\View\PianoControlView.baml
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\View\SongListView.baml
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\View\TopToolbarView.baml
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\PianoTutorial.g.resources
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\PianoTutorial.Properties.Resources.resources
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\PianoTutorial.csproj.GenerateResource.Cache
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\PianoTutorial.exe
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\PianoTutorial.pdb
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Caliburn.Micro.dll
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Caliburn.Micro.xml
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\View\SettingWindowView.g.cs
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\View\SettingWindowView.baml
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\View\NotesView.g.cs
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\View\NotesView.baml
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\PianoTutorial.Images.Resource.resources
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\Styles\RadioButtonBig.baml
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\View\AboutView.g.cs
+C:\Users\liran\Documents\Visual Studio 2015\Projects\PianoTutorial\PianoTutorial\obj\Debug\View\AboutView.baml
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\PianoTutorial.exe.config
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\PianoTutorial.exe
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\PianoTutorial.pdb
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\Caliburn.Micro.dll
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\CSCore.dll
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\MvvmTools.dll
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\NAudio.dll
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\Sanford.Multimedia.dll
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\Sanford.Multimedia.Midi.WPF.dll
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\System.Reactive.Core.dll
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\System.Reactive.Interfaces.dll
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\System.Reactive.Linq.dll
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\System.Windows.Interactivity.dll
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\Sanford.Threading.dll
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\Sanford.Collections.dll
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\Caliburn.Micro.xml
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\CSCore.xml
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\System.Reactive.Core.xml
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\System.Reactive.Interfaces.xml
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\System.Reactive.Linq.xml
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\Styles\GlassButton.baml
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\Styles\RadioButtonBig.baml
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\Styles\RoundedButton.baml
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\View\AboutView.g.cs
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\View\ChordListView.g.cs
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\View\MainWindowView.g.cs
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\View\NotesView.g.cs
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\View\PianoControlView.g.cs
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\View\SettingWindowView.g.cs
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\View\SongListView.g.cs
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\View\TopToolbarView.g.cs
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\App.g.cs
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\PianoTutorial_Content.g.cs
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\PianoTutorial_MarkupCompile.cache
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\PianoTutorial_MarkupCompile.lref
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\App.baml
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\View\AboutView.baml
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\View\ChordListView.baml
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\View\MainWindowView.baml
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\View\NotesView.baml
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\View\PianoControlView.baml
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\View\SettingWindowView.baml
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\View\SongListView.baml
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\View\TopToolbarView.baml
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\PianoTutorial.g.resources
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\PianoTutorial.Images.Resource.resources
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\PianoTutorial.Properties.Resources.resources
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\PianoTutorial.csproj.GenerateResource.cache
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\PianoTutorial.csproj.CoreCompileInputs.cache
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\PianoTutorial.csproj.CopyComplete
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\PianoTutorial.exe
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\PianoTutorial.pdb
+C:\Git\PianoTutorialProject\PianoTutorial\PianoTutorial\obj\Debug\PianoTutorial.csproj.AssemblyReference.cache
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\PianoTutorial.exe.config
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\PianoTutorial.exe
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\PianoTutorial.pdb
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\Caliburn.Micro.dll
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\CSCore.dll
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\MvvmTools.dll
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\NAudio.dll
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\Sanford.Multimedia.dll
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\Sanford.Multimedia.Midi.WPF.dll
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\System.Reactive.Core.dll
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\System.Reactive.Interfaces.dll
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\System.Reactive.Linq.dll
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\System.Windows.Interactivity.dll
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\Sanford.Threading.dll
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\Sanford.Collections.dll
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\Caliburn.Micro.xml
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\CSCore.xml
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\System.Reactive.Core.xml
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\System.Reactive.Interfaces.xml
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\System.Reactive.Linq.xml
+C:\Git\VirtualPiano\PianoTutorial\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\PianoTutorial.csproj.AssemblyReference.cache
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\Styles\GlassButton.baml
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\Styles\RadioButtonBig.baml
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\Styles\RoundedButton.baml
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\View\AboutView.g.cs
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\View\ChordListView.g.cs
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\View\MainWindowView.g.cs
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\View\NotesView.g.cs
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\View\PianoControlView.g.cs
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\View\SettingWindowView.g.cs
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\View\SongListView.g.cs
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\View\TopToolbarView.g.cs
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\App.g.cs
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\PianoTutorial_Content.g.cs
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\PianoTutorial_MarkupCompile.cache
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\PianoTutorial_MarkupCompile.lref
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\App.baml
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\View\AboutView.baml
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\View\ChordListView.baml
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\View\MainWindowView.baml
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\View\NotesView.baml
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\View\PianoControlView.baml
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\View\SettingWindowView.baml
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\View\SongListView.baml
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\View\TopToolbarView.baml
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\PianoTutorial.g.resources
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\PianoTutorial.Images.Resource.resources
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\PianoTutorial.Properties.Resources.resources
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\PianoTutorial.csproj.GenerateResource.cache
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\PianoTutorial.csproj.CoreCompileInputs.cache
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\PianoTutorial.csproj.CopyComplete
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\PianoTutorial.exe
+C:\Git\VirtualPiano\PianoTutorial\obj\Debug\PianoTutorial.pdb

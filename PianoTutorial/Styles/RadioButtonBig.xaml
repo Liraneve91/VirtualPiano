@@ -1,0 +1,17 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Style TargetType="RadioButton" x:Key="RadioButtonBig">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="RadioButton">
+                    <Grid>
+                        <RadioButton IsChecked="{Binding Path=IsChecked, RelativeSource={RelativeSource Mode=TemplatedParent}}" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        <Border Background="Transparent" />
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+</ResourceDictionary>

@@ -1,0 +1,41 @@
+﻿<Window x:Class="PianoTutorial.View.MainWindowView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PianoTutorial.View"
+        WindowStyle="None"   
+ WindowState="Maximized"
+        mc:Ignorable="d"
+        Topmost="True"
+             Left="0" Top="0"
+        Title="MainWindowView" Height="1080" Width="1920">
+    <Window.Background>
+        <LinearGradientBrush>
+            <GradientStop Offset="0.0" Color="#FF000000"/>
+            <GradientStop Offset="1.0" Color="#FF000000"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid Height="1080" Width="1920">
+<!--<Button Width="100" Height="100" Command="{Binding Close}" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="0,20,20,0"></Button>-->
+        <local:PianoControlView VerticalAlignment="Bottom" Width="1920" HorizontalAlignment="Right" Margin="0,0,-207,-28" Loaded="PianoControlView_Loaded">
+            <local:PianoControlView.RenderTransform>
+                <ScaleTransform ScaleX="0.8" ScaleY="0.7"></ScaleTransform>
+            </local:PianoControlView.RenderTransform>
+        </local:PianoControlView>
+
+        <local:TopToolbarView VerticalAlignment="Top" Width="Auto" Height="100"></local:TopToolbarView>
+
+        <local:ChordListView VerticalAlignment="Top" Width="Auto" Height="Auto" HorizontalAlignment="Left" Margin="0,105,0,0"></local:ChordListView>
+
+        <local:SongListView VerticalAlignment="Top" Width="Auto" Height="Auto" HorizontalAlignment="Left" Margin="120,105,0,0"></local:SongListView>
+
+        <local:SettingWindowView VerticalAlignment="Top" Width="200" Height="250" HorizontalAlignment="Right" Margin="0,105,0,100"></local:SettingWindowView>
+
+
+    </Grid>
+
+</Window>
+
+
+
